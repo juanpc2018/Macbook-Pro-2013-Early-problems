@@ -72,4 +72,4 @@ to Wake-Up / Activate the Retina Backlight and the intel integrated graphics.
 
 MBP 2013 Early with a Damaged 650M only Option is OSX EL Capitan 10.11.3
 and installing gfx or gswitch to force integrated graphics.
-latest Firmware does Not allow to force GPU / stop automiatic switch in Power Options.
+latest Firmware does Not allow to force GPU / stop automatic switch in Power Options.
