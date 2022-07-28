@@ -82,3 +82,7 @@ https://beetstech.com/blog/apple-proprietary-ssd-ultimate-guide-to-specs-and-upg
 
 https://support.apple.com/en-us/HT201255
 
+Running OSX Mavericks 10.9.5 is easy in MBP 2013 Early Damaged.
+Then needs Update to Yosemite 10.10.5
+installing ElCapitan 10.11 is Harder...
+if i remember correcly, does Not allow to Update, Needs a Clean Install.
