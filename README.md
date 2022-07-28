@@ -46,7 +46,7 @@ https://support.apple.com/kb/DL1450?locale=en_US
 
 
 OSX Catalina can be installed but has No display, Black Screen.
-Because the 650M is Damaged in most MBP 2013 Early.
+Because the 650M is Damaged in most MBP 2013 Early models.
 
 with a Damaged 650M the only Option is OSX EL Capitan 10.11.3
 if user installs 10.11.6 starts to Fail.
