@@ -63,7 +63,7 @@ but Early 2013 does Not, unless it has a perfectly working 650M.
 
 with a Damaged 650M
 the only way to activate intel GPU, in older OSX that does Not require the 650M,
-is connecting an HDMI cable to a TV turned-on,
+is connecting an HDMI cable to a TV turned-on, wait for OSX to load "usually keyboard backlight turns-on", 
 close the lid,
 open the lid,
 unplug the HDMI cable,
