@@ -11,12 +11,16 @@ Intel HD3000 and Nvidia GeForce GT 650M 1GB GDDR5.
 Automatically switches between graphics hardware when running macOS.
 and that is a big problem.
 
+Late 2013 has 750M
+
 Most MBP 2013 from that era are Damaged, 
-Nvidia chip becomes desoldered or damaged, a known issue since 2011
+Nvidia chip becomes desoldered or damaged, 
+a known issue since 2011
 
 http://dosdude1.com/resources.html
 
-that caused Apple to terminate Nvidia support in following years, only support AMD GPUs.
+that caused Apple to terminate Nvidia partnership in following years, 
+and only support AMD GPUs.
 
 Apple offered a very small window of warranty, mostly with-in USA to affected owners.
 but most people living outside USA had problems to claim the warranty with authorized Apple resellers.
