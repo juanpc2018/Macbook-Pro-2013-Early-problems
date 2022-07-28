@@ -75,9 +75,10 @@ and installing gfx or gswitch to force integrated graphics.
 latest Firmware does Not allow to force GPU / stop automatic switch in Power Options.
 
 installing OSX Catalina in MBP 2013 Early will convert the SSD PCIe to APFS,
-making hard to recover the information, unless a external case is purchased for the 202-2013 SSD to USB3.0,
+making hard to recover the information, unless a external case is purchased for the 2012-2013 SSD to USB3.0,
 MBP2013 Early has the old SSD 7+17 PCIe, Not compatible with the New SSD PCIe found in MacMini 2014, and probably in the MacPro6,1 2013.
 
+https://beetstech.com/blog/apple-proprietary-ssd-ultimate-guide-to-specs-and-upgrades
 
 https://support.apple.com/en-us/HT201255
 
