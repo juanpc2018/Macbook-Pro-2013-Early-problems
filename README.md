@@ -12,6 +12,10 @@ Automatically switches between graphics hardware when running macOS.
 and that is a big problem.
 
 Late 2013 has 750M
+https://everymac.com/systems/apple/macbook_pro/index-macbookpro.html
+https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.8-15-early-2013-retina-display-specs.html
+https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.7-15-early-2013-retina-display-specs.html
+https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.4-15-early-2013-retina-display-specs.html
 
 Most MBP 2013 from that era are Damaged, 
 Nvidia chip becomes desoldered or damaged, 
