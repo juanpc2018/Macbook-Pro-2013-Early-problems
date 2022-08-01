@@ -7,7 +7,7 @@ for the MacbookPro10,1 2013
 https://en.wikipedia.org/wiki/MacBook_Pro_(Intel-based)#Software_and_operating_systems
 
 Mackbook Pro 2013 Early 15" with dual graphic card, 
-Intel HD3000 and Nvidia GeForce GT 650M 1GB GDDR5. 
+Intel HD4000 and Nvidia GeForce GT 650M 1GB GDDR5. 
 Automatically switches between graphics hardware when running macOS.
 and that is a big problem.
 
@@ -30,7 +30,7 @@ but results dont last because the damaged chip,
 usually needs a new 650M chip for a proper reballing, and results may vary.
 
 The 2nd problem: 
-OSX Catalina requires 650M exclusive, does Not support Intel HD3000,
+OSX Catalina requires 650M exclusive, does Not support Intel HD4000,
 same happens with OSX HighSierra,
 Latest UEFI Firmware 262.0.0
 forces MBP 2013 Early to use the damaged 650M by default.
